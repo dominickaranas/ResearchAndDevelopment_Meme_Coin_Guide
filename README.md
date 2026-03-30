@@ -21,19 +21,6 @@ ResearchAndDevelopment_Meme_Coin_Guide/
     └── img30.png
 ```
 
----
-
-## 🌐 Hosting on GitHub Pages
-
-1. Create a new GitHub repository
-2. Upload all files — `index.html`, `styles.css`, `script.js`, and the `images/` folder
-3. Go to **Settings → Pages**
-4. Under **Source**, select `Deploy from a branch`
-5. Choose `main` branch, `/ (root)` folder → Click **Save**
-6. Wait ~1 minute, then visit: `https://yourusername.github.io/your-repo-name`
-
----
-
 ## 📸 Screenshots (images folder)
 
 The visual guide section uses 30 screenshots organized into 4 phases:
