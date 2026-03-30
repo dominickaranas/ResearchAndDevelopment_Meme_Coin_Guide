@@ -8,7 +8,7 @@ A research and development project — a fully designed static webpage covering 
 
 ## 📁 File Structure
 ```
-aResearchAndDevelopment_Meme_Coin_Guide/
+ResearchAndDevelopment_Meme_Coin_Guide/
 ├── index.html
 ├── styles.css
 ├── script.js
