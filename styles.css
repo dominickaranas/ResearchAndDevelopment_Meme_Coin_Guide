@@ -13,9 +13,9 @@
       --orange: #ff8c42;
       --pink: #ff4d8f;
       --yellow: #ffd166;
-      --text: #e8e6f5;
-      --text2: #9490b0;
-      --text3: #5f5c7a;
+      --text: #ffffff;
+      --text2: #c9c5dd;
+      --text3: #8a87a8;
       --glow: 0 0 40px rgba(124, 92, 255, 0.15);
     }
 
@@ -235,12 +235,12 @@
     h2 .accent { color: var(--purple2); }
 
     .section-intro {
-      font-size: 1.05rem;
-      color: var(--text2);
+      font-size: 1.1rem;
+      color: var(--text);
       max-width: 640px;
       line-height: 1.75;
       margin-bottom: 2.5rem;
-      font-weight: 300;
+      font-weight: 400;
     }
 
     /* DIVIDER */
@@ -318,10 +318,10 @@
     }
 
     .card p {
-      font-size: 0.9rem;
+      font-size: 0.95rem;
       color: var(--text2);
       line-height: 1.7;
-      font-weight: 300;
+      font-weight: 400;
     }
 
     /* BLOCKCHAIN TABLE */
