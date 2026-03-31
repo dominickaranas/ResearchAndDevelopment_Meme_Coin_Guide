@@ -13,6 +13,7 @@ ResearchAndDevelopment_Meme_Coin_Guide/
 ├── styles.css
 ├── script.js
 ├── README.md
+├── meme_coin_guide.pptx     ← presentation download
 └── images/
     ├── img1.png
     ├── img2.png
@@ -51,7 +52,7 @@ Click any screenshot on the page to open a full-size modal with prev/next naviga
 | 09 | Launch Checklist | Interactive before/during/after checklist |
 | 10 | Risks & Legal | What to know before you launch |
 | 11 | Success Tiers | Budget vs Standard vs Pro ROI estimates |
-
+| 📥 | Download | Full presentation available as .pptx from the hero section |
 ---
 
 
