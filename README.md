@@ -13,7 +13,8 @@ ResearchAndDevelopment_Meme_Coin_Guide/
 ├── styles.css
 ├── script.js
 ├── README.md
-├── meme_coin_guide.pptx     ← presentation download
+├── presentation/
+│   └── meme_coin_guide.pptx
 └── images/
     ├── img1.png
     ├── img2.png
