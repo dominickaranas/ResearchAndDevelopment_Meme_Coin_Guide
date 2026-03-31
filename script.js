@@ -94,3 +94,14 @@
     if (e.key === 'ArrowLeft')  prevImg();
     if (e.key === 'Escape')     closeModal();
   });
+
+// BACK TO TOP
+const backToTop = document.getElementById('backToTop');
+
+window.addEventListener('scroll', function() {
+  if (window.scrollY > 400) {
+    backToTop.style.display = 'flex';
+  } else {
+    backToTop.style.display = 'none';
+  }
+});
